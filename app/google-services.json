@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239594761858",
+    "project_id": "kobesha200",
+    "storage_bucket": "kobesha200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239594761858:android:fcaa40185c1c5c1d624e9b",
+        "android_client_info": {
+          "package_name": "com.example.davaleba123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239594761858-o0qkc35b5hdras09lkftr717cuqf1ptu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-8_9dPR4Xv0xWQeexReBtBLCa8UsZ1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239594761858-o0qkc35b5hdras09lkftr717cuqf1ptu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
